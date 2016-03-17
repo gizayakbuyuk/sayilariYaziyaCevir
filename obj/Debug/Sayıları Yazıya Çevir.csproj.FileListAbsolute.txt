@@ -1,0 +1,20 @@
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe.config
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.pdb
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları_Yazıya_Çevir.Form1.resources
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları_Yazıya_Çevir.Properties.Resources.resources
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.csproj.GenerateResource.Cache
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.exe
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.pdb
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe.CodeAnalysisLog.xml
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe.lastcodeanalysissucceeded
+D:\Görsel Programlama\13.Ders (29.02.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.csprojResolveAssemblyReference.cache
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe.config
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.exe
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.pdb
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.exe
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\bin\Debug\Sayıları Yazıya Çevir.pdb
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.csprojResolveAssemblyReference.cache
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları_Yazıya_Çevir.Form1.resources
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları_Yazıya_Çevir.Properties.Resources.resources
+D:\Görsel Programlama\14.Ders (02.03.2016)\Sayıları Yazıya Çevir\Sayıları Yazıya Çevir\obj\Debug\Sayıları Yazıya Çevir.csproj.GenerateResource.Cache
